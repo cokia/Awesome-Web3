@@ -1,4 +1,4 @@
-# Awesome-Web3# Awesome WEB3
+# Awesome-Web3
 
 ## What  is Web3?
 web3 is a library to communicate with Ethereum nodes, and there are web3.py and web3.j projects centered on web3.js. It is a project underway by the Ethereum Foundation, and all are open source, so anyone can contribute.
